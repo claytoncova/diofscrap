@@ -20,7 +20,7 @@ LibDep:
 
 Instalação das dependências:
 
-    pip install paramiko requests getopt bs4
+    pip install requests getopt bs4
 
 Utilização: 
 
