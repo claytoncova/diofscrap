@@ -9,10 +9,12 @@ Basicamente o código consulta uma chamada http para listagem dos
 arquivos e depois executa o download com ajuda de threads.
 
 Código disponibilizado pela licença X11, licença MIT (c).
+
 2018. Clayton G. C. Santos.
+
 Python: V. 3.6
 
-OpSys testado: MacOs High Sierra
+SysOp testado: MacOs High Sierra
 
 LibDep: 
 
@@ -34,4 +36,4 @@ Parâmetros:
     Destino: caminho do destino. Default: pasta atual na execução.
     Threads: número de threads utilizada. Default: 5.
     
-wr: Clayton G. C. Santos
+Clayton G. C. Santos
