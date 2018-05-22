@@ -8,8 +8,7 @@ desenvolvimento de rotinas para análise de dados em amplitude, big data.
 Basicamente o código consulta uma chamada http para listagem dos
 arquivos e depois executa o download com ajuda de threads.
 
-Código disponibilizado pela licença X11, licença MIT (c).
-
+Código disponibilizado pela licença X11, licença MIT (c). 
 2018. Clayton G. C. Santos.
 
 Python: V. 3.6
