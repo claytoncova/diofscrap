@@ -4,7 +4,7 @@ Pré-requisito instalar por padrão 'resquests', 'getopt' e 'bs4' via pip.
 
 Código didático e prova de conceito para captura de massa de informação
 do Diário Oficial do Estado de Rondônia. Pode ser utilizado para o
-desenvolvimento de rotinas para análise de dados em amplitude, big data.
+desenvolvimento de rotinas para análise de dados em amplitude, scraping.
 Basicamente o código consulta uma chamada http para listagem dos
 arquivos e depois executa o download com ajuda de threads.
 
