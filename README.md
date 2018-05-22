@@ -32,7 +32,7 @@ Parâmetros:
     
     DataInicio: data inicial do diário a ser baixado. Default: 01-04-2005.
     DataFim: data final do diário a ser baixado. Default: data atual do sistema.
-    Destino: caminho do destino. Default: pasta atual na execução.
+    Destino: caminho do destino. A pasta deve existir, caso contrário dará erro. Default: pasta atual na execução.
     Threads: número de threads utilizada. Default: 5.
     
 Clayton G. C. Santos
