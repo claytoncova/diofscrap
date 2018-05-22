@@ -25,7 +25,7 @@ Instalação das dependências:
 Utilização: 
 
     diofscrap.py -i <DataInicio> -f <DataFim> -o <Destino> -t <Threads>
-    diofscrap.py --data-inicio <DataInicio> --data-fim <DataFim> --destino <Destino> --threads <Threads>
+    diofscrap.py --data-inicio=<DataInicio> --data-fim=<DataFim> --destino=<Destino> --threads=<Threads>
     
 Parâmetros:
     
